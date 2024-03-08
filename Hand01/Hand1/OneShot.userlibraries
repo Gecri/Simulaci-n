@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jade">
+    <archive path="/Users/alejandro/Downloads/jade/lib/jade.jar" />
+  </library>
+</eclipse-userlibraries>
+
